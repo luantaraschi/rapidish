@@ -1,4 +1,4 @@
-<h1>Sabor Express</h1>
+<h1>Projeto Rapidish</h1>
 
 <h2>📃Sobre</h2>
 <p>Criando o sistema de um aplicativo de comida com Python</p>
